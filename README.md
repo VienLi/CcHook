@@ -6,9 +6,6 @@
 个人服务器轻量级 CICD 方案（替代 jenkins）前端自动部署、前端自动化工具、消息推送、邮件发送、前端定时任务、个人信息自动更新
 有帮助的话记得给个Star哟 🥰
  
-## 介绍
-[https://zhuanlan.zhihu.com/p/630007999](https://zhuanlan.zhihu.com/p/630007999)
-
 ## 内置示例
 ### [backers](backers)
 > 打赏用户自动化维护 （复杂）
